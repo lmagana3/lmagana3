@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorena Magaña Zertuche (@lmagana3)
-- 👀 I’m interested in all things with gravitational waves. 
+- 👀 I’m interested in all things having to do with gravitational waves. 
 - 🌱 I’m currently learning how to build surrogate models and and how to apply machine learning to gravitational-wave data in different ways.
 - 💞️ I’m looking to collaborate on anything related to ringdown and machine learning for gravitational-waves.
 - 📫 How to reach me: lmaganaz@go.olemiss.edu
